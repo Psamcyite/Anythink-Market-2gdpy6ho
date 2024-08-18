@@ -1,3 +1,5 @@
 #!/bin/sh
 
-yarn seeds
+# Run the script to seed the database
+
+node seeds.js
